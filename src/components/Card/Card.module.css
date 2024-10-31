@@ -1,0 +1,12 @@
+.container {
+  background-color: rgba(31, 41, 55, 0.3); /* #1F2937 with 30% opacity */
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 8px 24px;
+  max-width: 850px;
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
